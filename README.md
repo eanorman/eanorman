@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/emilynorman1/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a><br>
-    <img src="https://komarev.com/ghpvc/?username=eanorman&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=eanorman&style=flat-square&color=blueviolet" alt=""/>
   </div>
   <h1>hey there! :wave:</h1>
 </div>
