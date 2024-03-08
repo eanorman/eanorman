@@ -8,6 +8,7 @@
     <img src="https://komarev.com/ghpvc/?username=eanorman&style=flat-square&color=blueviolet" alt=""/>
   </div>
   <h1>hey there! :wave:</h1>
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=synthwave" alt="Jokes Card" />
 </div>
 
 <br />
