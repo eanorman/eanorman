@@ -49,9 +49,3 @@ I'm a full-stack software developer from Indiana.
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
 </div>
-
----
-
-### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eanorman&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)\
-[![Eanorman's GitHub stats](https://github-readme-stats.vercel.app/api?username=eanorman&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)\
